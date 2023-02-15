@@ -8,6 +8,7 @@ A função 'get_trip_suggestion' solicita ao usuário uma descrição de viagem 
 
 O loop 'while True' permite que o usuário obtenha quantas sugestões de viagem quiser. O programa exibe a sugestão gerada pelo modelo GPT-3 e pergunta ao usuário se ele deseja outra sugestão. Quando o usuário não deseja mais sugestões, o programa é encerrado.
 
+
 EN-US 
 
 This code is a travel suggestion program that uses the OpenAI API to generate travel destination suggestions based on a description provided by the user. The program uses OpenAI's GPT-3 model to generate a response that combines the user-provided description and a specific location, thus generating a personalized suggestion.
